@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Triparia]]></title>
+  <link href="http://triparia.github.com/atom.xml" rel="self"/>
+  <link href="http://triparia.github.com/"/>
+  <updated>2012-05-15T17:24:10-04:00</updated>
+  <id>http://triparia.github.com/</id>
+  <author>
+    <name><![CDATA[chrisamaphone]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
